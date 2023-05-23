@@ -1,2 +1,2 @@
 # demo-workflow
-Demo repository to learn about Github Workflow, testing, etc.
+Demo repository to learn about Github Action, Workflow, testing, etc.
