@@ -7,7 +7,8 @@ import pytest
         [
             (10, np.exp(10)), 
             (5, np.exp(5)), 
-            (10, np.exp(10))
+            (10, np.exp(10)), 
+            (77, np.exp(77))
     ]
 )
 def test_exponential(input, expected):
